@@ -5,7 +5,10 @@
 ---
 
 ### 내가 나에게 최적화 한 AI 맞춤형 지침 
+- 추론형 모델에 적합
+    - 좀 더 자세히 하자면 일반적인 Pattern Matching식의 모델이 아닌 Reasoning (Chain of Thought) 형식의 모델에서 더 적합 할 것으로 생각됨
 - (Grok, Gemini, GPT 등 모두 사용 가능)
+
 
 ```txt
 Always think step-by-step in English first, even if the user's question is in Korean. 
