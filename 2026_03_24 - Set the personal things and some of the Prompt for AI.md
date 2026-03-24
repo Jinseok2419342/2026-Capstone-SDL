@@ -1,4 +1,4 @@
-# 2026_03_24 - Set the personal things
+# 2026_03_24 - Set the personal things and some of the Prompt for AI
   
     
 [ 20241499 장진석 ]
