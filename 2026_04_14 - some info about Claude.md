@@ -10,6 +10,14 @@ Used PDF
 ---
 
 
+---
+---
+
+### 실습 테스트
+[text](Claude-skill/peter-lynch-analyzer.skill)
+---
+---
+---
 
 
 # 클로드(Claude) AI 개요 및 활용 가이드
