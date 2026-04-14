@@ -1,4 +1,4 @@
-# 2026_04_07 - what is the GPTs and why no one use this
+# 2026_04_07 - some info about Claude (AI)
   
     
 [ 20241499 장진석 ]
