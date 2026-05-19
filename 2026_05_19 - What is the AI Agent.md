@@ -14,8 +14,10 @@ Used PDF
 
 
 
+<br><br>
 
 # [2026 AI캡스톤디자인] AI Agent와 활용 가이드
+
 
 ## 1. AI Agent와 MCP 개요
 *   **AI 에이전트(AI Agent)의 정의:** 인공지능 기술을 활용하여 환경을 지각(Sensors)하고, 합리적인 판단을 통해 목표를 달성하기 위한 행동(Actuators)을 수행하는 시스템.
@@ -26,12 +28,15 @@ Used PDF
     *   **작동 원리:** MCP 호스트(실행 환경), MCP 클라이언트(통신 담당), MCP 서버(도구 실행)의 3자 협력 구조.
 ![alt text](<사용 이미지/mcp.png>)
 
+<br><br>
+
 ## 2. 클로드 커넥터(Claude Connector) 개요
 *   **개념:** "대화만 하는 AI"를 "업무 도구를 실제로 다루는 AI"로 확장하는 연결층.
 *   **주요 연결 대상:** Notion, Gmail, Google Calendar, Google Drive 등.
 *   **특징:** 복잡한 설정 없는 노코드(No-code) 솔루션이며, OAuth(개방형 표준 인증 프로토콜)를 통해 비밀번호 노출 없이 안전하게 권한을 부여함.
 ![alt text](<사용 이미지/connecter.png>)
 
+<br><br>
 
 ## 3. 클로드 커넥터 주요 활용 사례
 *   **Gmail & Google Calendar:**
@@ -44,6 +49,8 @@ Used PDF
 *   **카카오톡(PlayMCP) 연결:**
     *   PlayMCP를 통해 '나와의 채팅방' 등에 메시지 전송 기능 활성화.
 *   **기타:** Gemini를 통한 구글 워크스페이스 연동 및 메일 요약 기능.
+
+<br><br>
 
 ## 4. 클로드 인 크롬(Claude in Chrome) 및 고급 기능
 *   **설치 및 실행:** 크롬 확장 프로그램 설치 후 사이드 패널을 통해 브라우징 중 상시 사용 가능.
